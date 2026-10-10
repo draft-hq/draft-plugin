@@ -1,0 +1,8 @@
+{
+  "name": "draft",
+  "version": "0.1.0",
+  "description": "Tailor a résumé to a job saved in draft, written by the user's own assistant and checked by draft: no skill, employer, title or date the candidate never stated.",
+  "author": { "name": "draft" },
+  "homepage": "https://jobsviadraft.com",
+  "keywords": ["resume", "jobs", "ats"]
+}

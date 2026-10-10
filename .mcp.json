@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "draft": {
+    "jobsviadraft": {
       "type": "http",
       "url": "https://jobsviadraft.com/mcp"
     }

@@ -1,8 +1,10 @@
 {
-  "name": "draft",
-  "version": "0.1.0",
-  "description": "Tailor a résumé to a job saved in draft, written by the user's own assistant and checked by draft: no skill, employer, title or date the candidate never stated.",
+  "name": "jobsviadraft",
+  "displayName": "jobsviadraft",
+  "version": "0.2.0",
+  "description": "Find jobs on your draft board, score your résumé against one, and tailor it with your own Claude; draft checks that nothing was added you never stated, then saves it.",
   "author": { "name": "draft" },
-  "homepage": "https://jobsviadraft.com",
+  "homepage": "https://jobsviadraft.com/docs/claude",
+  "license": "MIT",
   "keywords": ["resume", "jobs", "ats"]
 }
